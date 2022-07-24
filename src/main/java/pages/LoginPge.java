@@ -35,5 +35,6 @@ public class LoginPge {
 	public void clck_sgnin() {
 		signin_element.click();
 	}
+//	sdsfgyuhdisJODKpl[;[fghplgjokhhpglfdsa
 
 }
